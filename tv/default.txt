@@ -1,2 +1,1 @@
-翡翠台,http://pullhls6.inke.cn/live/1549174800682659/playlist.m3u8
-香港NOW台,http://live.italkdd.com/cds160/hls/channel003/channel003.m3u8
+http://shop.cmg0768.com/public/bootstrap/html/index.php
